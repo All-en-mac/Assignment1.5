@@ -46,5 +46,4 @@ Open your repository page in your web browser.
 
 Click on the Commits tab (or check the file list) to verify that your new commit history is visible online.
 
-Submission
-Copy the public URL of your GitHub repository (e.g., [https://github.com/YOUR-USERNAME/web-development-practice](https://github.com/YOUR-USERNAME/web-development-practice)) and submit it as required!
+(https://github.com/All-en-mac/Assignment1.5)) 
